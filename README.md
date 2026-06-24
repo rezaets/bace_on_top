@@ -1,2 +1,2 @@
-# bace_on_top
-bace = 1 > other = 0
+# base_on_top
+bsce = 1 > other = 0
